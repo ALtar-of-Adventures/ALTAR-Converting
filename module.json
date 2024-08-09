@@ -1,0 +1,32 @@
+{
+    "name": "converters-currencies",
+    "title": "Converters Currencies",
+    "description": "Модуль, добавляющий кнопку калькулятора в пользовательский интерфейс.",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "JR",
+            "url": "https://boosty.to/alofa",
+            "discord": "johnny_raspberry"
+        }
+    ],
+    "compatibility": {
+        "minimum": "10",
+        "verified": "12"
+    },
+    "relationships": {
+        "requires": []
+    },
+    "scripts": [
+        "scripts/my-module.js"
+    ],
+    "styles": [],
+    "packs": [],
+    "esmodules": [],
+    "languages": [],
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "license": "",
+    "socket": false
+}
