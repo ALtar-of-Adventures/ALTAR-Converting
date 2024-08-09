@@ -2,7 +2,7 @@
     "name": "converters-currencies",
     "title": "Converters Currencies",
     "description": "Модуль, добавляющий кнопку калькулятора в пользовательский интерфейс.",
-    "version": "1.1",
+    "version": "1.0",
     "authors": [
         {
             "name": "JR",
@@ -24,9 +24,9 @@
     "packs": [],
     "esmodules": [],
     "languages": [],
-    "url": "",
-    "manifest": "",
+    "url": "https://github.com/ALtar-of-Adventures/ALTAR-Converting",
+    "manifest": "https://github.com/ALtar-of-Adventures/ALTAR-Converting/raw/main/module.json",
     "download": "https://github.com/ALtar-of-Adventures/ALTAR-Converting/raw/main/module.zip",
-    "license": "https://github.com/ALtar-of-Adventures/ALTAR-Converting/raw/main/module.json",
+    "license": "",
     "socket": false
 }
