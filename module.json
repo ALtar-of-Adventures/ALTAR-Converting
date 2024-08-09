@@ -2,7 +2,7 @@
     "name": "converters-currencies",
     "title": "Converters Currencies",
     "description": "Модуль, добавляющий кнопку калькулятора в пользовательский интерфейс.",
-    "version": "1.0",
+    "version": "1.1",
     "authors": [
         {
             "name": "JR",
